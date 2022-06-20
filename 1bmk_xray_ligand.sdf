@@ -1,0 +1,222 @@
+1BMK - prepared_ligand
+                    3D
+ Schrodinger Suite 2022-2.
+ 39 42  0  0  1  0            999 V2000
+    7.9580   10.9541   30.3141 F   0  0  0  0  0  0
+    6.0908   12.3358   30.8790 C   0  0  0  0  0  0
+    6.7468   11.4625   29.9917 C   0  0  0  0  0  0
+    6.1295   11.1003   28.7804 C   0  0  0  0  0  0
+    4.8436   11.5819   28.4689 C   0  0  0  0  0  0
+    4.1901   12.4694   29.3472 C   0  0  0  0  0  0
+    4.8189   12.8453   30.5534 C   0  0  0  0  0  0
+    1.3911    8.9797   30.2273 C   0  0  0  0  0  0
+    0.4116    8.4677   29.4532 N   0  0  0  0  0  0
+   -0.0738    9.2685   28.5055 C   0  0  0  0  0  0
+    0.3144   10.5133   28.2363 N   0  0  0  0  0  0
+    1.2663   11.0520   29.0295 C   0  0  0  0  0  0
+    1.8528   10.2969   30.0665 C   0  0  0  0  0  0
+   -1.0932    8.7705   27.7381 N   0  0  0  0  0  0
+    0.7755   13.4723   28.4023 N   0  0  0  0  0  0
+    1.6504   12.4485   28.8077 C   0  0  0  0  0  0
+    2.8930   13.0364   28.9902 C   0  0  0  0  0  0
+    2.7902   14.4041   28.7747 N   0  0  0  0  0  0
+    1.5250   14.5783   28.4400 C   0  0  0  0  0  0
+   -0.6604   13.4824   28.1166 C   0  0  0  0  0  0
+   -0.9991   14.2580   26.8513 C   0  0  0  0  0  0
+   -2.1640   13.8733   25.9675 C   0  0  0  0  0  0
+   -0.7509   13.6518   25.4936 C   0  0  0  0  0  0
+    6.5606   12.6120   31.8104 H   0  0  0  0  0  0
+    6.6355   10.4359   28.0998 H   0  0  0  0  0  0
+    4.3722   11.2897   27.5420 H   0  0  0  0  0  0
+    4.3220   13.5235   31.2318 H   0  0  0  0  0  0
+    1.8130    8.3463   30.9880 H   0  0  0  0  0  0
+    2.6095   10.7012   30.7211 H   0  0  0  0  0  0
+   -1.6039    9.4038   27.1402 H   0  0  0  0  0  0
+   -1.5745    7.9409   28.0559 H   0  0  0  0  0  0
+    1.1239   15.5499   28.2282 H   0  0  0  0  0  0
+   -1.1685   13.9491   28.9605 H   0  0  0  0  0  0
+   -1.0672   12.4806   28.0335 H   0  0  0  0  0  0
+   -0.8140   15.3259   26.9259 H   0  0  0  0  0  0
+   -2.7278   14.6759   25.4958 H   0  0  0  0  0  0
+   -2.7433   12.9931   26.2396 H   0  0  0  0  0  0
+   -0.3990   12.6229   25.4578 H   0  0  0  0  0  0
+   -0.3653   14.3088   24.7181 H   0  0  0  0  0  0
+  1  3  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  2 24  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  4 25  1  0  0  0
+  5  6  1  0  0  0
+  5 26  1  0  0  0
+  6  7  2  0  0  0
+  6 17  1  0  0  0
+  7 27  1  0  0  0
+  8  9  2  0  0  0
+  8 13  1  0  0  0
+  8 28  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 10 14  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  2  0  0  0
+ 12 16  1  0  0  0
+ 13 29  1  0  0  0
+ 14 30  1  0  0  0
+ 14 31  1  0  0  0
+ 15 16  1  0  0  0
+ 15 19  1  0  0  0
+ 15 20  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 18 19  2  0  0  0
+ 19 32  1  0  0  0
+ 20 21  1  0  0  0
+ 20 33  1  0  0  0
+ 20 34  1  0  0  0
+ 21 22  1  0  0  0
+ 21 23  1  0  0  0
+ 21 35  1  0  0  0
+ 22 23  1  0  0  0
+ 22 36  1  0  0  0
+ 22 37  1  0  0  0
+ 23 38  1  0  0  0
+ 23 39  1  0  0  0
+M  END
+> <s_m_entry_id>
+3
+
+> <s_m_entry_name>
+1bmk.1_ligand
+
+> <s_pdb_PDB_TITLE>
+THE COMPLEX STRUCTURE OF THE MAP KINASE P38/SB218655
+
+> <s_pdb_PDB_ID>
+1BMK
+
+> <r_pdb_PDB_CRYST1_a>
+45.58
+
+> <r_pdb_PDB_CRYST1_b>
+85.22
+
+> <r_pdb_PDB_CRYST1_c>
+123.5
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+23-JUL-98
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.189
+
+> <r_pdb_PDB_Rfree>
+0.245
+
+> <r_pdb_PDB_RESOLUTION>
+2.4
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.4
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/Users/pwalters
+
+> <s_m_Source_File>
+1bmk.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2022-2
+
+> <r_ppw_preprocess_pH>
+7
+
+> <s_ppw_het_states>
+eJztk1GOwjAMRK9S9btCtbFpy1VW3ADtH1+Iu5PEwGukvcDumg80nkqZZDxzH2U8D1/lp+vRpmG+TEOFDjwBF+AK3D7QZqAAFXgEomaoGWqGmqFmqDlqjpqj5qg5ao6aN7WKX8+P5womBKF7oj5S8CZsERwKcxSfwiLBrThD94RzaHUuTNOO4GLtW/NSsDUc1Y7gYu1bM1rwPA7VjuCmtv5IVH97YnePz1uUFcV2hEXFGcqOYj3CpmJJPcHz3SEKMx9OSz32PlZnSpoLsWlRqLO9Z2+zS8yL2WMavm/Xa/y3CGQFsgJZgaxAViAr8Jsr8DYoK/C/KqCHpSjvKlAI840KxJyRz8hn5DPyGfmMfEY+I/9HI395PAFiyFq1
+
+> <r_i_Potential_Energy-OPLS_2005>
+-1477.23905892568
+
+> <r_i_RMS_Derivative-OPLS_2005>
+0.164320691534589
+
+> <r_i_Max_Derivative-OPLS_2005>
+3.39528793929275
+
+> <r_i_Stretch_Energy-OPLS_2005>
+138.213359857391
+
+> <r_i_Bend_Energy-OPLS_2005>
+597.868876247051
+
+> <r_i_LJ-14_Energy-OPLS_2005>
+1646.33647269867
+
+> <r_i_El-14_Energy-OPLS_2005>
+530.328317208589
+
+> <r_i_Van_der_Waals_Energy-OPLS_2005>
+-3434.9804836765
+
+> <r_i_Electrostatic_Energy-OPLS_2005>
+-2180.38065221845
+
+> <r_i_Dihedral_Energy-OPLS_2005>
+1081.23505936515
+
+> <r_i_target_temperature>
+298
+
+> <s_m_job_name>
+prepwizard_1
+
+> <s_m_subgroup_title>
+prepwizard_1-out1->1BMK - prepared_split_by_structure
+
+> <s_m_subgroupid>
+prepwizard_1-out1->1BMK - prepared_split_by_structure
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
